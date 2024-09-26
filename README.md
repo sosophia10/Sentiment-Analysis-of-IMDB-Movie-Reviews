@@ -26,12 +26,12 @@ This project implements **Sentiment Analysis** on movie reviews from the **IMDB 
 ### Installation Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/imdb-sentiment-analysis.git
+   git clone https://github.com/sosophia10/Sentiment-Analysis-of-IMDB-Movie-Reviews.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd imdb-sentiment-analysis
+   cd Sentiment-Analysis-of-IMDB-Movie-Reviews
    ```
 
 3. Install dependencies:
