@@ -45,7 +45,7 @@ This project implements **Sentiment Analysis** on movie reviews from the **IMDB 
    ```
 
 ## Data Source
-The project uses the IMDB Movie Review Dataset containing 50,000 reviews. The dataset includes both positive and negative reviews labeled for sentiment classification.
+The project uses the IMDB Movie Review Dataset containing 50,000 reviews [downloaded from Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data). The dataset includes both positive and negative reviews labeled for sentiment classification.
 
 ## Usage
 Exploration and Visualization: The notebook includes visualizations of word distributions and common phrases in positive and negative reviews.
